@@ -26,5 +26,5 @@
 # 适用平台
 * 包括但不限于Glitch，Rendenr，Back4app，clever cloud，Zeabur，codesanbox，replit。。。等等，不支持物理停机的容器。
 * 部署在huggingface上的保活项目https://huggingface.co/spaces/rides/keep-alive 可直接复制我的space，修改index.js中的地址即可。
-* 新增vps部署方式，下载keep-alive.sh文件,修改相关变量 bash keep-alive.sh运行
+* 新增vps部署方式，下载keep-alive.sh文件,修改相关变量bash keep-alive.sh运行
 

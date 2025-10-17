@@ -11,7 +11,7 @@
 3：可以添加环境变量
 ![PixPin_2024-12-19_18-16-11](https://github.com/user-attachments/assets/dbf1a840-55f5-4ed9-a662-8d3588a90431)
 
-
+* 新增vps部署方式，下载keep-alive.sh文件,修改相关变量后bash keep-alive.sh运行
 
 
 ## 其他方式部署

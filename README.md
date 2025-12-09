@@ -9,10 +9,10 @@
 ![image](https://github.com/user-attachments/assets/09e2474d-cf43-472e-a4ac-0df6504739e7)
 
 3：可以添加环境变量
-![PixPin_2024-12-19_18-16-11](https://github.com/user-attachments/assets/dbf1a840-55f5-4ed9-a662-8d3588a90431)
+* 24小时不间断访问的URL,变量名：URLS，多个URL用英文逗号或换行分隔
+* 指定时间段(1:00～5:00)访问的URL,变量名：WEBSITES，多个URL用英文逗号或换行分隔
 
-
-
+4 新增vps部署方式，下载keep-alive.sh文件,修改相关变量bash keep-alive.sh运行
 
 ## 其他方式部署
 1：在基于node环境下的容器或vps（需要自己安装node环境）使用。
@@ -26,5 +26,5 @@
 # 适用平台
 * 包括但不限于Glitch，Rendenr，Back4app，clever cloud，Zeabur，codesanbox，replit。。。等等，不支持物理停机的容器。
 * 部署在huggingface上的保活项目https://huggingface.co/spaces/rides/keep-alive 可直接复制我的space，修改index.js中的地址即可。
-* 新增vps部署方式，下载keep-alive.sh文件,修改相关变量bash keep-alive.sh运行
+
 

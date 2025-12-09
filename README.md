@@ -12,7 +12,7 @@
 * 24小时不间断访问的URL,变量名：URLS，多个URL用英文逗号或换行分隔
 * 指定时间段(1:00～5:00)访问的URL,变量名：WEBSITES，多个URL用英文逗号或换行分隔
 
-4 新增vps部署方式，下载keep-alive.sh文件,修改相关变量bash keep-alive.sh运行
+4：新增vps一键保活脚本，下载keep-alive.sh文件,修改相关变量bash keep-alive.sh运行
 
 ## 其他方式部署
 1：在基于node环境下的容器或vps（需要自己安装node环境）使用。

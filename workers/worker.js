@@ -20,7 +20,7 @@ const defaultUrls = [
   // ... 添加更多URL
 ];
 
-// 指定时间段(1:00～5:00)访问的URL数组,可添加环境变量WEBSITES，多个URL用英文逗号或换行分隔
+// 排除时间段(1:00～5:00)访问的URL数组,可添加环境变量WEBSITES，多个URL用英文逗号或换行分隔
 const defaultWebsites = [
   "https://www.baidu.com", // 可添加多个URL，每个URL之间用英文逗号分隔
   "https://www.baidu.com"
